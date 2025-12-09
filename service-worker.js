@@ -1,5 +1,5 @@
 // 定义缓存名称
-const CACHE_NAME = '戚怼怼微信-v1.0';
+const CACHE_NAME = '戚怼怼芒信-v1.0';
 
 // 需要缓存的文件列表
 const urlsToCache = [

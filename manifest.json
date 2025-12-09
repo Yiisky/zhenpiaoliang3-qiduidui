@@ -1,7 +1,7 @@
 {
-  "name": "戚怼怼的微信",
-  "short_name": "戚怼怼微信",
-  "description": "戚怼怼与不重要的怡氏集团高层聊天记录查看器",
+  "name": "戚怼怼的芒信",
+  "short_name": "戚怼怼芒信",
+  "description": "戚怼怼的聊天记录查看器",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
